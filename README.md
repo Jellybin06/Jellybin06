@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
-    <Strong>☁️Portfolio List☁️</Strong><br><br>
+    <Strong>☁️My List☁️</Strong><br><br>
     <br>
     <br>
 <Strong>📧Email📧</Strong><br>pjbboseung0817@gmail.com<br>
