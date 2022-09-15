@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
-    <Strong>☁️My List☁️</Strong><br><br>
+    <Strong>☁️Portfolio List☁️</Strong><br><br>
     <br>
     <br>
 <Strong>📧Email📧</Strong><br>pjbboseung0817@gmail.com<br>
@@ -41,6 +41,3 @@
 <br>
 
 <div align=center>
-
-![JellyBIn's github stats](https://github-readme-stats.vercel.app/api?username=Jellybinn06&show_icons=true)
-
