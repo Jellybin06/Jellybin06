@@ -14,7 +14,7 @@
 
 <p align="center">
 Hello! <br>
-This is Park Jung-bin, who dreams of becoming a white hacker. I am very interested in information security and the web!<br>
+My name is Park Jung-bin, who dreams of becoming a white hacker. I am very interested in information security and the web!<br>
 I am a student at Busan Software Meister High School and I am a freshman.<br>
 </p>
 
