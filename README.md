@@ -13,9 +13,9 @@
 <br>
 
 <p align="center">
-안녕하세요!👐<br>
-화이트해커가 꿈인 박정빈입니다. 정보보안과 웹에 관심이 많습니다!<br>
-부산소프트웨어마이스터고등학교 재학중이며 1학년 입니다.<br>
+Hello! <br>
+This is Park Jung-bin, who dreams of becoming a white hacker. I am very interested in information security and the web!<br>
+I am a student at Busan Software Meister High School and I am a freshman.<br>
 </p>
 
 <br>
