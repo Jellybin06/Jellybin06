@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=aqua&height=300&section=header&text=Welcome!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=JellyBIn's%20GitHub&descAlignY=51&descAlign=72)
+![header](https://capsule-render.vercel.app/api?text=JeongBin&nbsp;Park&animation=twinkling&fontColor=58ACFA&fontSize=72&type=transparent)
 
 <br>
 
