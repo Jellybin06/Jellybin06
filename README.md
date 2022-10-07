@@ -19,6 +19,9 @@ My name is Park Jung-bin, who dreams of becoming a white hacker. I am very inter
 I am a student at Busan Software Meister High School and I am a freshman.<br>
 </p>
 
+<div align="left">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jellybin06&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
+
 <br>
 <br>
 
