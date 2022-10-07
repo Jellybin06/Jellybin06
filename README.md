@@ -25,7 +25,11 @@ I am a student at Busan Software Meister High School and I am a freshman.<br>
 <p align="center">
     <Strong>⚒️Skills⚒️</Strong><br>
 </p>
+<br>
+<div align="left">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jellybin06&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
 
+<br>
 <p align="center" display="inline-block">
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -42,7 +46,5 @@ I am a student at Busan Software Meister High School and I am a freshman.<br>
 </p><br>
 <br>
 <br>
-<div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jellybin06&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
 
 <br>
