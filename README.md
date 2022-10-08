@@ -47,4 +47,5 @@ I am a student at Busan Software Meister High School and I am a freshman!<br>
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jellybin06&theme=dark&show_icons=true)
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jellybin06&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
+<br>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jellybin06&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
