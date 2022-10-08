@@ -25,7 +25,8 @@ I am a student at Busan Software Meister High School and I am a freshman!<br>
 <p align="center">
     <Strong>⚒️Skills⚒️</Strong><br>
 </p>
-
+<br>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jellybin06&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
 <br>
 <p align="center" display="inline-block">
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
@@ -46,5 +47,3 @@ I am a student at Busan Software Meister High School and I am a freshman!<br>
 
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jellybin06&theme=dark&show_icons=true)
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jellybin06&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
